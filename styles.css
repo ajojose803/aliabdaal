@@ -1,0 +1,45 @@
+body{
+   /* height: 2500px; */
+   overflow-y: scroll;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+img.caro{
+    object-fit: contain;
+    min-height: 85vh;
+}
+
+.emoji{
+    font-size: large;
+}
+
+hr.main {
+    border: none;
+}
+
+a.article{
+    text-decoration: none;
+    color: black;
+}
+
+.sunday{
+    background: #f7fafcff;
+    height: 30%;
+}
+.snippets{
+    font-size: 1.1rem;
+}
+.subscribe{
+    background-color:#3998d4ff;
+}
+
+ul.social a{
+    font-size: 1.2rem;
+    color:white;
+    
+} 
+ul.social{
+    list-style: none;
+} 
